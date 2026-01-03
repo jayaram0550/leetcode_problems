@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayaram0550/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jayaram0550/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jayaram0550/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jayaram0550/leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/jayaram0550/leetcode_problems/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/jayaram0550/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jayaram0550/leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
