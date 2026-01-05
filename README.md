@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/jayaram0550/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jayaram0550/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayaram0550/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/jayaram0550/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jayaram0550/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jayaram0550/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/jayaram0550/leetcode_problems/tree/master/2942-find-words-containing-character) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/jayaram0550/leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayaram0550/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/jayaram0550/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/jayaram0550/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jayaram0550/leetcode_problems/tree/master/1929-concatenation-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/jayaram0550/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
