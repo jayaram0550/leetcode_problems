@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/jayaram0550/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayaram0550/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/jayaram0550/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/jayaram0550/leetcode_problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jayaram0550/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jayaram0550/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/jayaram0550/leetcode_problems/tree/master/2942-find-words-containing-character) |
