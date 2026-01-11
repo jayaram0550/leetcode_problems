@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/jayaram0550/leetcode_problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/jayaram0550/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jayaram0550/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayaram0550/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jayaram0550/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayaram0550/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/jayaram0550/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/jayaram0550/leetcode_problems/tree/master/3467-transform-array-by-parity) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayaram0550/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/jayaram0550/leetcode_problems/tree/master/3467-transform-array-by-parity) |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jayaram0550/leetcode_problems/tree/master/0085-maximal-rectangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
