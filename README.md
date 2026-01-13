@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/jayaram0550/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/jayaram0550/leetcode_problems/tree/master/1108-defanging-an-ip-address) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/jayaram0550/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jayaram0550/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
