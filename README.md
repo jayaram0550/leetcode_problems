@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/jayaram0550/leetcode_problems/tree/master/2942-find-words-containing-character) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jayaram0550/leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jayaram0550/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayaram0550/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3467-transform-array-by-parity](https://github.com/jayaram0550/leetcode_problems/tree/master/3467-transform-array-by-parity) |
 ## Tree
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/jayaram0550/leetcode_problems/tree/master/1534-count-good-triplets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Geometry
 |  |
 | ------- |
