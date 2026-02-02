@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/jayaram0550/leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jayaram0550/leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jayaram0550/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/jayaram0550/leetcode_problems/tree/master/2325-decode-the-message) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jayaram0550/leetcode_problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/jayaram0550/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
