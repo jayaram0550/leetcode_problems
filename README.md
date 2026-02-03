@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3453-separate-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/jayaram0550/leetcode_problems/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jayaram0550/leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3637-trionic-array-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/jayaram0550/leetcode_problems/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
