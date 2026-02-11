@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3640-trionic-array-ii) |
 | [3668-restore-finishing-order](https://github.com/jayaram0550/leetcode_problems/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jayaram0550/leetcode_problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/jayaram0550/leetcode_problems/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/jayaram0550/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/jayaram0550/leetcode_problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -237,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
