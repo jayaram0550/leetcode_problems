@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/jayaram0550/leetcode_problems/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/jayaram0550/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jayaram0550/leetcode_problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/jayaram0550/leetcode_problems/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/jayaram0550/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
+| [3714-longest-balanced-substring-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
