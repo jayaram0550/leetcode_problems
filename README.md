@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/jayaram0550/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/jayaram0550/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
