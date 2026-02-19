@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/jayaram0550/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/jayaram0550/leetcode_problems/tree/master/1108-defanging-an-ip-address) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
