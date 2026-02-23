@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/jayaram0550/leetcode_problems/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/jayaram0550/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/jayaram0550/leetcode_problems/tree/master/1108-defanging-an-ip-address) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jayaram0550/leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jayaram0550/leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jayaram0550/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jayaram0550/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayaram0550/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jayaram0550/leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/jayaram0550/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jayaram0550/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/jayaram0550/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jayaram0550/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jayaram0550/leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jayaram0550/leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jayaram0550/leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
