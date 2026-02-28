@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/jayaram0550/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jayaram0550/leetcode_problems/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/jayaram0550/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jayaram0550/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jayaram0550/leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/jayaram0550/leetcode_problems/tree/master/3280-convert-date-to-binary) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jayaram0550/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/jayaram0550/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jayaram0550/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jayaram0550/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jayaram0550/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jayaram0550/leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jayaram0550/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
