@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jayaram0550/leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jayaram0550/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/jayaram0550/leetcode_problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
 | ------- |
