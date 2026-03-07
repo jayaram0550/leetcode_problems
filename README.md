@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/jayaram0550/leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
