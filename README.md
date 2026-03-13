@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/jayaram0550/leetcode_problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/jayaram0550/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0136-single-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
