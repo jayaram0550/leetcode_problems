@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/jayaram0550/leetcode_problems/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/jayaram0550/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jayaram0550/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
