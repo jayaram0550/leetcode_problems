@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jayaram0550/leetcode_problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/jayaram0550/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jayaram0550/leetcode_problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/jayaram0550/leetcode_problems/tree/master/0085-maximal-rectangle) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayaram0550/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3453-separate-squares-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3453-separate-squares-i) |
