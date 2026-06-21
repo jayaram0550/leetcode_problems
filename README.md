@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/jayaram0550/leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jayaram0550/leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/jayaram0550/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/jayaram0550/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jayaram0550/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayaram0550/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/jayaram0550/leetcode_problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1833-maximum-ice-cream-bars](https://github.com/jayaram0550/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/jayaram0550/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jayaram0550/leetcode_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jayaram0550/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/jayaram0550/leetcode_problems/tree/master/0761-special-binary-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayaram0550/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/jayaram0550/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3467-transform-array-by-parity](https://github.com/jayaram0550/leetcode_problems/tree/master/3467-transform-array-by-parity) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayaram0550/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/jayaram0550/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
