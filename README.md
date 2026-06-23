@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jayaram0550/leetcode_problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jayaram0550/leetcode_problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3640-trionic-array-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3640-trionic-array-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Simulation
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/jayaram0550/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
