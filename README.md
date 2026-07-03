@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/jayaram0550/leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jayaram0550/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/jayaram0550/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jayaram0550/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jayaram0550/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/jayaram0550/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
