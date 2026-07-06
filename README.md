@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jayaram0550/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/jayaram0550/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/jayaram0550/leetcode_problems/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jayaram0550/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jayaram0550/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/jayaram0550/leetcode_problems/tree/master/0704-binary-search) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayaram0550/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3453-separate-squares-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3453-separate-squares-i) |
