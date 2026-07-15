@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jayaram0550/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jayaram0550/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/jayaram0550/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/jayaram0550/leetcode_problems/tree/master/0761-special-binary-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/jayaram0550/leetcode_problems/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/jayaram0550/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jayaram0550/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jayaram0550/leetcode_problems/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/jayaram0550/leetcode_problems/tree/master/1512-number-of-good-pairs) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jayaram0550/leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/jayaram0550/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jayaram0550/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/jayaram0550/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jayaram0550/leetcode_problems/tree/master/1929-concatenation-of-array) |
