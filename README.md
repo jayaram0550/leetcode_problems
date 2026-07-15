@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jayaram0550/leetcode_problems/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/jayaram0550/leetcode_problems/tree/master/0231-power-of-two) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jayaram0550/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
