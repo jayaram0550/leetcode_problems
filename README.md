@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jayaram0550/leetcode_problems/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jayaram0550/leetcode_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jayaram0550/leetcode_problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jayaram0550/leetcode_problems/tree/master/0412-fizz-buzz) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jayaram0550/leetcode_problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jayaram0550/leetcode_problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jayaram0550/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jayaram0550/leetcode_problems/tree/master/0242-valid-anagram) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jayaram0550/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jayaram0550/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
