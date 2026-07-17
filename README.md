@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jayaram0550/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2815-max-pair-sum-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/jayaram0550/leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jayaram0550/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/jayaram0550/leetcode_problems/tree/master/2325-decode-the-message) |
+| [2815-max-pair-sum-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/2815-max-pair-sum-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
