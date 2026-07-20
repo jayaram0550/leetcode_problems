@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jayaram0550/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/jayaram0550/leetcode_problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jayaram0550/leetcode_problems/tree/master/0485-max-consecutive-ones) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/jayaram0550/leetcode_problems/tree/master/0704-binary-search) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayaram0550/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/jayaram0550/leetcode_problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/jayaram0550/leetcode_problems/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/jayaram0550/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jayaram0550/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jayaram0550/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jayaram0550/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jayaram0550/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jayaram0550/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/jayaram0550/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
