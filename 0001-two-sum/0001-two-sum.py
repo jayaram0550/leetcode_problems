@@ -1,11 +1,27 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        a=[]
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]+nums[j]==target:
+        d={}
 
-                    a.append(i)
-                    a.append(j)
-        return a
+        for i in range(len(nums)):
+            r=target-nums[i]
+            if r not in d:
+                d[nums[i]]=i
+            else:
+                return [d[r],i]
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
