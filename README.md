@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jayaram0550/leetcode_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jayaram0550/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jayaram0550/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayaram0550/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayaram0550/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jayaram0550/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jayaram0550/leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jayaram0550/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/jayaram0550/leetcode_problems/tree/master/2325-decode-the-message) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayaram0550/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2815-max-pair-sum-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/2815-max-pair-sum-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jayaram0550/leetcode_problems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/jayaram0550/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/jayaram0550/leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayaram0550/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jayaram0550/leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3467-transform-array-by-parity](https://github.com/jayaram0550/leetcode_problems/tree/master/3467-transform-array-by-parity) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayaram0550/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayaram0550/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jayaram0550/leetcode_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jayaram0550/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
